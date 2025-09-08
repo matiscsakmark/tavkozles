@@ -1,2 +1,2 @@
-# t-vk-zl-s_13E
+# tavkozles
 13.osztaly tavkozles
