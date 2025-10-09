@@ -51,9 +51,9 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 - **Modulation Error Ratio (MER):** A mért MER érték 28.8 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.
 
 - Dokumentáció képek:
-![Jegyzökönyv_10.09._antenna_miskolctv.bmp](https://github.com/user-attachments/files/22795812/Jegyzokonyv_10.09._antenna_miskolctv.bpm)
-![Jegyzökönyv_10.09._antenna_miskolctv2.bmp](https://github.com/user-attachments/files/22795814/Jegyzokonyv_10.09._antenna_miskolctv2.bpm)
-![Jegyzökönyv_10.09._antenna_miskolctv3.bmp](https://github.com/user-attachments/files/22795829/Jegyzokonyv_10.09._antenna_miskolctv3.bpm)
+![Jegyzökönyv_10.09._antenna_miskolctv.bmp](https://github.com/user-attachments/files/22795812/Jegyzokonyv_10.09._antenna_miskolctv.bmp)
+![Jegyzökönyv_10.09._antenna_miskolctv2.bmp](https://github.com/user-attachments/files/22795814/Jegyzokonyv_10.09._antenna_miskolctv2.bmp)
+![Jegyzökönyv_10.09._antenna_miskolctv3.bmp](https://github.com/user-attachments/files/22795829/Jegyzokonyv_10.09._antenna_miskolctv3.bmp)
 
 - 
 ## 5. Elemzés
