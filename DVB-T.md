@@ -19,6 +19,9 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 **Adó távolsága:** 782,88 m  
 **ADÓTORONY - VÉTELI HELY távolság**
 
+![unnamed (1)](https://github.com/user-attachments/assets/0b860952-7a12-4d3a-bb41-89662c66796f)
+
+
 ## 3. Mérési paraméterek
 
 | Paraméter                            | Érték            |
@@ -47,6 +50,11 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 
 - **Modulation Error Ratio (MER):** A mért MER érték 28.8 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.
 
+- Dokumentáció képek:
+[Jegyzökönyv_10.09._antenna_miskolctv.bmp](https://github.com/user-attachments/files/22795812/Jegyzokonyv_10.09._antenna_miskolctv.bmp)
+[Jegyzökönyv_10.09._antenna_miskolctv2.bmp](https://github.com/user-attachments/files/22795814/Jegyzokonyv_10.09._antenna_miskolctv2.bmp)
+
+- 
 ## 5. Elemzés
 
 Az eredmények alapján a mérési helyen megfelelő minőségű DVB-T vétel biztosítható. A jelerősség és SNR értékek a megadott határértékek között mozogtak. A MER alacsony, és nem okozott észlelhető minőségromlást a vételben. A moduláció stabil volt, és nem voltak nagyobb interferenciák a mérések során.
@@ -59,10 +67,10 @@ Az eredmények alapján a mérési helyen megfelelő minőségű DVB-T vétel bi
 
 ## 7. Javaslatok
 
-- Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.
+- Mérés előtt javasolt az antennát forgatni/pozícióját változtatni a termen belül több irányba és helyre, és közbe nézni, hogy a jelerősség hol a legjobb, majd ezután már lehet kezdeni a mérést. Ez azért fontos, mert a falakról visszaverődhet a jel, akármi belezavarhat, és így a mérés nem lesz pontos/rossz lesz a jelerősség.
 
 ---
 
-**Aláírás:** MatiMárk 
+**Aláírás:** MatiMárk   
 Felelős mérő személy: Matiscsák Márk  
 Dátum: 2025.10.09.
