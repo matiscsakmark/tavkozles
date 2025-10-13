@@ -16,6 +16,7 @@
 ---
 
 ### Falstad: https://tinyurl.com/26na5mto
+!<img width="485" height="333" alt="Képernyőkép 2025-10-13 073715" src="https://github.com/user-attachments/assets/9c92b7c7-d1bd-4180-b4f7-0bc98dccc894" />
 
 
 
