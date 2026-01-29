@@ -1,6 +1,6 @@
 # Projekt Dokumentáció: Fázisfordító Erősítő Vizsgálata
 
-* **Név:** Boholy Bálint
+* **Név:** Matiscsák Márk
 * **Dátum:** 2026. január 29.
 * **Helyszín:** Miskolc, Kandó Kálmán Technikum - Labor 3
 * **Típus:** Áramkör szimuláció és elemzés
