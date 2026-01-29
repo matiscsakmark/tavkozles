@@ -4,7 +4,7 @@
 * **Dátum:** 2026. január 29.
 * **Helyszín:** Miskolc, Kandó Kálmán Technikum - Labor 3
 * **Típus:** Áramkör szimuláció és elemzés
-
+* **Használt eszköz:** NI myDAQ s/n:30458BA 
 ---
 
 ![Mérési elrendezés](https://github.com/user-attachments/assets/6c0dd3d1-53da-4518-93c5-74b758979909)
